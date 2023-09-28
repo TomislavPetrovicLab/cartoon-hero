@@ -46,6 +46,7 @@ main img{
 h1{
 	font-weight: bold;
 }
+
 h2{
 	font font-size: 24px;
 	color: #21459B;
@@ -55,6 +56,7 @@ h2{
 a{
 	color: #21459B;
 }
+
 a:hover{
 	color: white;
 	background-color: #21459B;
